@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(140, 215, 190);
+}
+h1{
+  color: #c3270f;
+}
+h2{
+  color: #4017c5;
+}
+html {
+  font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в
+  высоту */
+  font-family: 'Roboto', sans-serif;
+  }
